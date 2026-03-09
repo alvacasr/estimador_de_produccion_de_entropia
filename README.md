@@ -89,7 +89,3 @@ Algunas extensiones posibles del proyecto incluyen:
 - mejorar la estabilidad del entrenamiento
 - aplicar el modelo a datos experimentales
 - explorar otros observables termodinámicos
-
-## Autor
-
-Ramón Alvarado
